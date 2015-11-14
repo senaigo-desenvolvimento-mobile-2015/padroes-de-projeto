@@ -1,4 +1,4 @@
-package br.eti.fabricionogueira.interfaces;
+package br.eti.fabricionogueira.interfaces.quack;
 
 /**
  *

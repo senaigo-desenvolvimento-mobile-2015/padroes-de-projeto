@@ -1,6 +1,6 @@
-package br.eti.fabricionogueira.implemetacoes;
+package br.eti.fabricionogueira.implemetacoes.fly;
 
-import br.eti.fabricionogueira.interfaces.FlyBehavior;
+import br.eti.fabricionogueira.interfaces.fly.FlyBehavior;
 
 /**
  *

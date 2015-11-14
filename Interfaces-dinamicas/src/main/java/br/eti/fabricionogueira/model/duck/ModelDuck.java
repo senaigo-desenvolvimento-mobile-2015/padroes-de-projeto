@@ -1,8 +1,8 @@
-package br.eti.fabricionogueira.model;
+package br.eti.fabricionogueira.model.duck;
 
-import br.eti.fabricionogueira.implemetacoes.FlyNoWay;
-import br.eti.fabricionogueira.implemetacoes.Quack;
-import br.eti.fabricionogueira.superclasses.Duck;
+import br.eti.fabricionogueira.implemetacoes.fly.FlyNoWay;
+import br.eti.fabricionogueira.implemetacoes.quack.Quack;
+import br.eti.fabricionogueira.superclasses.duck.Duck;
 
 /**
  *

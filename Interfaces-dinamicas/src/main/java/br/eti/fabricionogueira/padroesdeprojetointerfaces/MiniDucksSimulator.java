@@ -1,8 +1,8 @@
 package br.eti.fabricionogueira.padroesdeprojetointerfaces;
 
-import br.eti.fabricionogueira.implemetacoes.FlyRocketPowered;
-import br.eti.fabricionogueira.model.ModelDuck;
-import br.eti.fabricionogueira.superclasses.Duck;
+import br.eti.fabricionogueira.implemetacoes.fly.FlyRocketPowered;
+import br.eti.fabricionogueira.model.duck.ModelDuck;
+import br.eti.fabricionogueira.superclasses.duck.Duck;
 
 /**
  *

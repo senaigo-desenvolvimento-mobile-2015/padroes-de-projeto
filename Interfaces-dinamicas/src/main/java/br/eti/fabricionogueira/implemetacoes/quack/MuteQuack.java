@@ -1,6 +1,6 @@
-package br.eti.fabricionogueira.implemetacoes;
+package br.eti.fabricionogueira.implemetacoes.quack;
 
-import br.eti.fabricionogueira.interfaces.QuackBehavior;
+import br.eti.fabricionogueira.interfaces.quack.QuackBehavior;
 
 /**
  *

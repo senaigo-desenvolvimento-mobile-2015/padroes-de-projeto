@@ -1,7 +1,7 @@
-package br.eti.fabricionogueira.superclasses;
+package br.eti.fabricionogueira.superclasses.duck;
 
-import br.eti.fabricionogueira.interfaces.FlyBehavior;
-import br.eti.fabricionogueira.interfaces.QuackBehavior;
+import br.eti.fabricionogueira.interfaces.fly.FlyBehavior;
+import br.eti.fabricionogueira.interfaces.quack.QuackBehavior;
 
 /**
  *
